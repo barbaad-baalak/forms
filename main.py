@@ -13,7 +13,7 @@ st.set_page_config(
 # Name Lists
 # --------------------------------
 girl_names = [
-    "riya", "priya", "neha", "pooja", "simran",
+    "pinki", "priya", "neha", "pooja", "simran",
     "ananya", "isha", "sakshi", "aisha", "shreya",
     "muskan", "sonam", "nisha", "kavya", "tanya"
 ]
