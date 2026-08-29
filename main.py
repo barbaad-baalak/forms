@@ -47,7 +47,7 @@ if st.button("Generate Password 🔑", use_container_width=True):
     password_lower = password.lower().strip()
 
     # Exact cases from the meme
-    if password_lower == "my dih" or "shubham dih":
+    if password_lower == "my dih":
         st.error("❌ Password is too long, try again.")
 
     elif password_lower == "bro dih":
