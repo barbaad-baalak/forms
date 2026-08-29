@@ -63,7 +63,6 @@ if st.button("Generate Password 🔑", use_container_width=True):
 
         elif prefix in boy_names:
             quotes = [
-                "😂 Bro, even the password needs a little more length.",
                 "💀 Bro entered a password shorter than his confidence.",
                 "😭 This password needs character development.",
                 "🙄 Bro, add some characters. The password is struggling.",
