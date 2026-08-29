@@ -19,9 +19,9 @@ girl_names = [
 ]
 
 boy_names = [
-    "rahul", "rohit", "aman", "aryan", "karan",
-    "varun", "aditya", "akash", "raj", "vivek",
-    "sumit", "ankit", "mohit", "nikhil", "yash"
+    "rahul", "rohit", "alim", "aryan", "karan",
+    "varun", "aditya", "akash", "vansh", "vivek",
+    "sumit", "ankit", "mohit", "nikhil", "aryan"
 ]
 
 # --------------------------------
